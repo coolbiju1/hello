@@ -1,2 +1,2 @@
 # hello
-trial
+My first Git Repository
